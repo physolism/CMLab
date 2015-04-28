@@ -11,7 +11,7 @@ main( )
 
    /* Read first weight in pounds  */
 
-   printf("\n\n\tWeight in pounds?");
+   printf("\n\n\tWeight in pounds by visusppy?");
    scant("%d",&pounds);
 
    /* Loop until user signals halt with negatie integer.  */
