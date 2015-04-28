@@ -2,6 +2,6 @@
 
 main()
 {
-    printf("Hello World by physolism");
+    printf("Hello World by virusppy");
 
 }
